@@ -63,7 +63,7 @@ with st.sidebar:
     bg_color = st.color_picker(label="Background Color", value='#FFFFFF')
 
     st.markdown(
-        "<p style='text-align: center; font-size: 1.2em; color: black;'><a href='https://github.com/Sgvkamalakar/Hand-Written-Equation-Solver'>Source Code</a></p>",
+        "<p style='text-align: center; font-size: 1.2em; color: black;'><a href='https://github.com/Aryansh-kr/CNN-based-Handwritten-Equation-Interpreter'>Source Code</a></p>",
         unsafe_allow_html=True)
 
 drawing_mode = "freedraw"
